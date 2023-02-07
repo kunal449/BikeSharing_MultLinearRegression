@@ -1,2 +1,2 @@
 # BikeSharing_MultLinearRegression
-Assignment for Multiple Linear regression
+1. Assignment for Multiple Linear regression
